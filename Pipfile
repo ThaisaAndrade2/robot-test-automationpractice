@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+robotframework-seleniumlibrary = "*"
+robotframework-requests = "*"
 
 [dev-packages]
 
