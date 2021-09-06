@@ -96,4 +96,3 @@ Preencher os campos obrigatórios
 
 Clicar em "Register"para finalizar o cadastro
     Click Button     //*[@id="submitAccount"][@type='submit'][@name='submitAccount']
-    Wait Until Element Is Visible  //*[@id="center_column"]/p[@class='info-account']
